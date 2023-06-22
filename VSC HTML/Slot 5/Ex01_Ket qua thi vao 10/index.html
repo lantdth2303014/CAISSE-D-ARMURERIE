@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Ket qua thi vao 10</title>
+        
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f4;
+                margin: 0;
+                padding: 20px;
+            }
+
+            h1 {
+                text-align: center;
+                color: #333;
+            }
+
+            form {
+                max-width: 400px;
+                margin: 0px auto;
+                background-color: #fff;
+                padding: 20px;
+                border-radius: 5px;
+                box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+            }
+
+            label {
+                display: block;
+                margin-bottom: 10px;
+                font-weight: bold;
+            }
+
+            input[type="number"] {
+                width: 100%;
+                padding: 10px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+                box-sizing: border-box;
+                margin-bottom: 10px;
+            }
+
+            input[type="button"] {
+                background-color: #4caf50;
+                color: #fff;
+                border: none;
+                padding: 10px 20px;
+                border-radius: 5px;
+                cursor: pointer;         /* changes the cursor to a pointer when the user hovers over the element */
+            }
+
+            input[type="button"]:hover {
+                background-color: #45a049;
+            }
+
+            #result {
+                font-weight: bold;
+                margin-top: 10px;
+            }
+        </style>
+
+        <script>
+            function calculateTotal(){
+                /* parseFloat = take string and convert to Float numbers */
+                var mathScore = parseFloat(document.getElementById("math").value);
+                var literatureScore = parseFloat(document.getElementById("literature").value);
+                var englishScore = parseFloat(document.getElementById("english").value);
+
+                mathScore *= 2;         // x2 diem Toan
+                literatureScore *= 2;   // x2 diem Van
+
+                var totalScore = mathScore + literatureScore + englishScore;
+
+                var result = "";
+
+                if(totalScore >= 42.5){
+                    result = "Do ca Kim Lien va Chu Van An";
+                }
+                else if(totalScore >= 40){
+                    result = "Do Kiem Lien";
+                }
+                else{
+                    result = "Khong do";
+                }
+
+                document.getElementById("result").innerHTML = "Ket qua: " + result;
+            }
+        </script>
+    </head>
+
+    <body>
+        <h1>Nhap diem mon hoc</h1>
+        
+        <form>
+            <label for="math">Toan:</label>
+            <!-- step = decimal end, required = user must enter a value -->
+            <input type="number" step="0.01" id="math" required>
+
+            <label for="literature">Van:</label>
+            <input type="number" step="0.01" id="literature" required>
+
+            <label for="english">Tieng Anh:</label>
+            <input type="number" step="0.01" id="english" required>
+
+            <input type="button" value="Tinh tong" onclick="calculateTotal()">
+
+            <div id="result"></div>    <!-- used to group other elements together for styling or layout purposes -->
+        </form>
+    </body>
+
+</html>

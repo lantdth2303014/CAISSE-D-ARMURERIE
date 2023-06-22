@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(51, 51, 51);
+    
+}
+header {
+    background-color: rgb(51, 51, 51);
+    padding: 0;
+    padding: 0;
+}
+
+header h1 {
+    color: #fff;
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;                  /* set to 0 so things start at the very left */
+    padding: 0;             
+}
+header nav li {
+    display: inline-block;
+    margin-right: 1px;
+    margin-top: 0px;
+    margin: 0;
+}
+
+header nav li a {
+    color: #fff;
+    margin-bottom: 10px;
+    font-size: small;
+    font-weight: bold;
+    text-decoration: none;      /* remove the underline for hyperlinks */
+}
+
+.title {
+    background-color: rgb(85, 200, 255);
+}
+
+.title-content h2 {
+    color: #fff;
+    padding: 40px 0px 80px 0px;
+    text-align: center;
+}
