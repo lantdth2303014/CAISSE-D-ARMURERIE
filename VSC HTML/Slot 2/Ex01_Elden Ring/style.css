@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(13, 10, 8);
+}
+h1{
+    color: rgb(173, 153, 113);
+}
+h4{
+    color: rgb(173, 153, 113);
+    font-family:  "Spectral";
+}
+h5{
+    color: rgb(188, 186, 184);
+}
+hr{
+    color: rgb(173, 153, 113);
+}
+p{
+    color: rgb(173, 153, 113);
+}
+pre{
+    color: rgb(188, 186, 184);
+}
