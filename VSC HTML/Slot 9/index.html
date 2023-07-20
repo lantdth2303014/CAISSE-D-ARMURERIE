@@ -1,0 +1,130 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Sign In</title>
+    <link rel="stylesheet" href="style.css">
+
+    <img src="logo.png" alt="Logo" width="200" height="200" >
+    <img src="banner.jpg" alt="Banner" width="300" height="175" >
+    <h3>Try Jumping!</h3>
+</head>
+  
+<body>
+    <div class="wrapper">
+      <h1>Đăng ký thông tin người dùng</h1>
+  
+        <form id="myForm">
+            <label for="name">Họ và tên:</label>
+            <input type="text" id="name" name="name">
+            <span id="nameError" style="color: #de6581;"></span><br><br>
+
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email">
+            <span id="emailError" style="color: #de6581;"></span><br><br>
+
+            <label for="phone">Phone:</label>
+            <input type="text" id="phone" name="phone">
+            <span id="phoneError" style="color: #de6581;"></span><br><br>
+
+            <label for="gender">Giới tính:</label>
+            <input type="radio" id="male" name="male" value="male"> Nam
+            <input type="radio" id="female" name="female" value="female"> Nữ
+            <span id="genderError" style="color: #de6581;"></span><br><br>
+
+            <label for="hobby">Sở thích:</label>
+            <input type="checkbox" name="hobby" value="sport" /> thể thao
+            <input type="checkbox" name="hobby" value="movie" /> phim ảnh
+            <input type="checkbox" name="hobby" value="reading" /> đọc sách 
+            <input type="checkbox" name="hobby" value="music" /> âm nhạc 
+            <input type="checkbox" name="hobby" value="else" /> khác 
+            <br><br>
+
+            <label for="about">Giới thiệu bản thân:</label>
+            <input type="textarea" id="about" name="about"><br><br>
+        
+            <div class="submit-container">
+                <input type="submit" value="Submit">
+            </div>
+  
+            <p id="successMessage" style="color: rgb(180, 160, 120);"></p>
+      </form>
+      
+      <script>
+        function validateEmail(email) {
+        const re = /^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+        return re.test(email);
+        }
+
+        const form = document.getElementById('myForm');
+      
+        //event listener
+        form.addEventListener('submit', function(event) {
+    
+          event.preventDefault();
+      
+          // Get form data
+          const name = document.getElementById('name').value;
+          const email = document.getElementById('email').value;
+          const phone = document.getElementById('phone').value;
+          const male = document.getElementById('male').checked;
+          const female = document.getElementById('female').checked;
+
+      
+          // Validate form data
+          let isValid = true;
+          if (!name) {
+            document.getElementById('nameError').textContent = 'required';
+            isValid = false;
+          } 
+          else if (name.length > 50) {
+            document.getElementById('nameError').textContent = 'maximum length is 50 characters';
+            isValid = false;
+          }
+          else {
+            document.getElementById('nameError').textContent = '';
+          }
+
+
+          if (!email) {
+            document.getElementById('emailError').textContent = 'required';
+            isValid = false;
+          } 
+          else if (!validateEmail(email)) {
+            document.getElementById('emailError').textContent = 'invalid email format';
+            isValid = false;
+          } 
+          else {
+            document.getElementById('emailError').textContent = '';
+          }
+
+
+
+          if (!phone) {
+            document.getElementById('phoneError').textContent = 'required';
+            isValid = false;
+          } else {
+            document.getElementById('Error').textContent = '';
+          }
+
+
+          if (!male && !female) {
+            document.getElementById('genderError').textContent = 'required';
+            isValid = false;
+          } 
+          else {
+            document.getElementById('genderError').textContent = '';
+          }
+      
+          // Submit form if data is valid
+          if (isValid) {
+            document.getElementById('successMessage').textContent = 'Form submitted successfully!';
+          }
+        });
+      </script>
+    </div>
+</body>
+
+<footer>
+    Tran Dinh Lan - lantdth2303014@fpt.edu.vn - T2305M
+</footer>
+  
+    
