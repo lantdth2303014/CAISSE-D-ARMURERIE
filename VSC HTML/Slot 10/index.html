@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" name="viewport" content="width=device-width", initial-scale="1.0">
+    <title>Liberty Electronics | Store</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+    <script src="script.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="header">
+        <div class="navbar">
+            <div class="logo">
+                <img src="images/logo.png" width="175px">
+            </div>
+    
+            <nav>
+                <ul>
+                    <li><a href="" class="current">Store</a></li>
+                    <li><a href="">Products</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <section class="container">
+        <div class="slider-wrapper">
+            <div class="slider">
+                <img id="slide-1" src="images/banner2.png" alt="MacBook Pro">
+                <img id="slide-2" src="images/banner3.png" alt="Apple Compact Keyboard, Magic Mouse, and Corded Headphones">
+                <img id="slide-3" src="images/banner4.png" alt="Yellow 212 Vip Camera Hanger"> 
+            </div>
+
+            <div class="slider-nav">
+                <a href="#slide-1"></a>
+                <a href="#slide-2"></a>
+                <a href="#slide-3"></a>
+            </div>
+        </div>
+    </section>
+  
+<!------------ featured ------------>
+
+    <div class="brands">
+        <h2>Featured Products</h2>
+        <ul>
+            <li><a href="javascript:void(0)" onclick="showProducts('Samsung')"><img src="images/samsungLogo.png" alt="Samsung"></a></li>
+            <li><a href="javascript:void(0)" onclick="showProducts('Apple')"><img src="images/appleLogo.png" alt="Apple"></a></li>
+            <li><a href="javascript:void(0)" onclick="showProducts('Xiaomi')"><img src="images/xiaomiLogo.png" alt="Xiaomi"></a></li>
+        </ul>
+    </div>
+
+    <div class="products" id="products">
+        <!-- Products will be displayed here -->
+    </div>
+
+    <div class="contact" id="contact">
+        <!-- Contact details and map will be displayed here -->
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2023 Liberty Electronics. All rights reserved.</p>
+    </div>
+</div>
+
+</body>
+</html>
