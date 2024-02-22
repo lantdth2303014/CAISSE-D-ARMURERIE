@@ -1,0 +1,14 @@
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\bin\Debug\net8.0\001_MyFirstProgram.exe
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\bin\Debug\net8.0\001_MyFirstProgram.deps.json
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\bin\Debug\net8.0\001_MyFirstProgram.runtimeconfig.json
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\bin\Debug\net8.0\001_MyFirstProgram.dll
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\bin\Debug\net8.0\001_MyFirstProgram.pdb
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\obj\Debug\net8.0\001_MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\obj\Debug\net8.0\001_MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\obj\Debug\net8.0\001_MyFirstProgram.AssemblyInfo.cs
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\obj\Debug\net8.0\001_MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\obj\Debug\net8.0\001_MyFirstProgram.dll
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\obj\Debug\net8.0\refint\001_MyFirstProgram.dll
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\obj\Debug\net8.0\001_MyFirstProgram.pdb
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\obj\Debug\net8.0\001_MyFirstProgram.genruntimeconfig.cache
+C:\Users\trand\source\repos\001_MyFirstProgram\001_MyFirstProgram\obj\Debug\net8.0\ref\001_MyFirstProgram.dll
