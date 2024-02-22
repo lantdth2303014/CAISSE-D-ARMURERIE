@@ -1,0 +1,14 @@
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\bin\Debug\net8.0\002_MethodOverloading.exe
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\bin\Debug\net8.0\002_MethodOverloading.deps.json
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\bin\Debug\net8.0\002_MethodOverloading.runtimeconfig.json
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\bin\Debug\net8.0\002_MethodOverloading.dll
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\bin\Debug\net8.0\002_MethodOverloading.pdb
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\obj\Debug\net8.0\002_MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\obj\Debug\net8.0\002_MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\obj\Debug\net8.0\002_MethodOverloading.AssemblyInfo.cs
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\obj\Debug\net8.0\002_MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\obj\Debug\net8.0\002_MethodOverloading.dll
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\obj\Debug\net8.0\refint\002_MethodOverloading.dll
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\obj\Debug\net8.0\002_MethodOverloading.pdb
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\obj\Debug\net8.0\002_MethodOverloading.genruntimeconfig.cache
+C:\Users\trand\source\repos\002_MethodOverloading\002_MethodOverloading\obj\Debug\net8.0\ref\002_MethodOverloading.dll
