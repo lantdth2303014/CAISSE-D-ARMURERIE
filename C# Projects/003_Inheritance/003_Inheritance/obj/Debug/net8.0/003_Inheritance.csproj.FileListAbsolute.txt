@@ -1,0 +1,14 @@
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\bin\Debug\net8.0\003_Inheritance.exe
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\bin\Debug\net8.0\003_Inheritance.deps.json
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\bin\Debug\net8.0\003_Inheritance.runtimeconfig.json
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\bin\Debug\net8.0\003_Inheritance.dll
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\bin\Debug\net8.0\003_Inheritance.pdb
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\obj\Debug\net8.0\003_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\obj\Debug\net8.0\003_Inheritance.AssemblyInfoInputs.cache
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\obj\Debug\net8.0\003_Inheritance.AssemblyInfo.cs
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\obj\Debug\net8.0\003_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\obj\Debug\net8.0\003_Inheritance.dll
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\obj\Debug\net8.0\refint\003_Inheritance.dll
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\obj\Debug\net8.0\003_Inheritance.pdb
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\obj\Debug\net8.0\003_Inheritance.genruntimeconfig.cache
+C:\Users\trand\source\repos\003_Inheritance\003_Inheritance\obj\Debug\net8.0\ref\003_Inheritance.dll
