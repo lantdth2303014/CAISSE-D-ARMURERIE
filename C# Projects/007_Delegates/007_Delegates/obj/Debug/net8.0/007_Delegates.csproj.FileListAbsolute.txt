@@ -1,0 +1,14 @@
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\bin\Debug\net8.0\007_Delegates.exe
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\bin\Debug\net8.0\007_Delegates.deps.json
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\bin\Debug\net8.0\007_Delegates.runtimeconfig.json
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\bin\Debug\net8.0\007_Delegates.dll
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\bin\Debug\net8.0\007_Delegates.pdb
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\obj\Debug\net8.0\007_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\obj\Debug\net8.0\007_Delegates.AssemblyInfoInputs.cache
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\obj\Debug\net8.0\007_Delegates.AssemblyInfo.cs
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\obj\Debug\net8.0\007_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\obj\Debug\net8.0\007_Delegates.dll
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\obj\Debug\net8.0\refint\007_Delegates.dll
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\obj\Debug\net8.0\007_Delegates.pdb
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\obj\Debug\net8.0\007_Delegates.genruntimeconfig.cache
+C:\Users\trand\source\repos\007_Delegates\007_Delegates\obj\Debug\net8.0\ref\007_Delegates.dll
