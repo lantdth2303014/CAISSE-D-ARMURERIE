@@ -1,0 +1,14 @@
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\bin\Debug\net8.0\006_Lab3.exe
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\bin\Debug\net8.0\006_Lab3.deps.json
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\bin\Debug\net8.0\006_Lab3.runtimeconfig.json
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\bin\Debug\net8.0\006_Lab3.dll
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\bin\Debug\net8.0\006_Lab3.pdb
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\obj\Debug\net8.0\006_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\obj\Debug\net8.0\006_Lab3.AssemblyInfoInputs.cache
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\obj\Debug\net8.0\006_Lab3.AssemblyInfo.cs
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\obj\Debug\net8.0\006_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\obj\Debug\net8.0\006_Lab3.dll
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\obj\Debug\net8.0\refint\006_Lab3.dll
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\obj\Debug\net8.0\006_Lab3.pdb
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\obj\Debug\net8.0\006_Lab3.genruntimeconfig.cache
+C:\Users\trand\source\repos\006_Lab3\006_Lab3\obj\Debug\net8.0\ref\006_Lab3.dll
