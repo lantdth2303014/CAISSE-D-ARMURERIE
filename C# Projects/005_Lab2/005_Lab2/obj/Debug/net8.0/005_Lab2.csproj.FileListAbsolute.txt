@@ -1,0 +1,14 @@
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\bin\Debug\net8.0\005_Lab2.exe
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\bin\Debug\net8.0\005_Lab2.deps.json
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\bin\Debug\net8.0\005_Lab2.runtimeconfig.json
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\bin\Debug\net8.0\005_Lab2.dll
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\bin\Debug\net8.0\005_Lab2.pdb
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\obj\Debug\net8.0\005_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\obj\Debug\net8.0\005_Lab2.AssemblyInfoInputs.cache
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\obj\Debug\net8.0\005_Lab2.AssemblyInfo.cs
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\obj\Debug\net8.0\005_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\obj\Debug\net8.0\005_Lab2.dll
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\obj\Debug\net8.0\refint\005_Lab2.dll
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\obj\Debug\net8.0\005_Lab2.pdb
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\obj\Debug\net8.0\005_Lab2.genruntimeconfig.cache
+C:\Users\trand\source\repos\005_Lab2\005_Lab2\obj\Debug\net8.0\ref\005_Lab2.dll
