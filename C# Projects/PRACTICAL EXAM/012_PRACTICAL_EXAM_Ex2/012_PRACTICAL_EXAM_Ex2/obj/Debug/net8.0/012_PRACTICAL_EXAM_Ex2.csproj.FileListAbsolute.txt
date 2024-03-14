@@ -1,0 +1,14 @@
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\bin\Debug\net8.0\012_PRACTICAL_EXAM_Ex2.exe
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\bin\Debug\net8.0\012_PRACTICAL_EXAM_Ex2.deps.json
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\bin\Debug\net8.0\012_PRACTICAL_EXAM_Ex2.runtimeconfig.json
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\bin\Debug\net8.0\012_PRACTICAL_EXAM_Ex2.dll
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\bin\Debug\net8.0\012_PRACTICAL_EXAM_Ex2.pdb
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\obj\Debug\net8.0\012_PRACTICAL_EXAM_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\obj\Debug\net8.0\012_PRACTICAL_EXAM_Ex2.AssemblyInfoInputs.cache
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\obj\Debug\net8.0\012_PRACTICAL_EXAM_Ex2.AssemblyInfo.cs
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\obj\Debug\net8.0\012_PRACTICAL_EXAM_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\obj\Debug\net8.0\012_PRACTICAL_EXAM_Ex2.dll
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\obj\Debug\net8.0\refint\012_PRACTICAL_EXAM_Ex2.dll
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\obj\Debug\net8.0\012_PRACTICAL_EXAM_Ex2.pdb
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\obj\Debug\net8.0\012_PRACTICAL_EXAM_Ex2.genruntimeconfig.cache
+C:\Users\trand\source\repos\012_PRACTICAL_EXAM_Ex2\012_PRACTICAL_EXAM_Ex2\obj\Debug\net8.0\ref\012_PRACTICAL_EXAM_Ex2.dll
