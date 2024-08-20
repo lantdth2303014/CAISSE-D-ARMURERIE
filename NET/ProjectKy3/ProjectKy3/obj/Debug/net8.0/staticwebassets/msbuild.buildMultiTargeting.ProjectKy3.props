@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProjectKy3.props" />
+</Project>
